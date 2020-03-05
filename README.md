@@ -4,7 +4,7 @@ Toilet Finder Application
 Collaborators
 -------
 
-- [Tarun Vemulakonda](https://github.com/tarun29300)
+- [Hemanth Kumar](https://github.com/HemanthK9)
 - [K. Sai Praneeth](https://github.com/praneeth159)
 - [Hrushikesh Koyadala](https://github.com/hrushikeshkoyadala)
 
